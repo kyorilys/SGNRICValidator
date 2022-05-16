@@ -1,4 +1,4 @@
-# NRIC MY Validator
+# NRIC SG Validator
 Python NRIC Singapore validator
 
 Simple Validator just for Singapore NRIC validation
